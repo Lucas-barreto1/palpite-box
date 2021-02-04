@@ -29,10 +29,7 @@ Visually, TailwindCSS was used.
   - [Deployment](#deployment)
   - [Built With](#built-with)
   - [Authors](#authors)
-<<<<<<< HEAD
-  
-=======
->>>>>>> d288b6f70e00a2bd9760561812da71eb3ea69d11
+
   
 
 ## Getting Started
